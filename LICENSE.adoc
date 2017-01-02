@@ -1,0 +1,6 @@
+= License
+
+The works in this repository should be considered Creative Commons
+(Attribution and ShareAlike) licensed.
+
+image:https://i.creativecommons.org/l/by-sa/4.0/88x31.png["Attribution-ShareAlike 4.0", link="http://creativecommons.org/licenses/by-sa/4.0/"]
