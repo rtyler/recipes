@@ -5,7 +5,7 @@
 image::https://farm1.staticflickr.com/484/31222061133_7e0327773f_m_d.jpg[role=center]
 
 
-Modified from from _The Complete Sourdough Cookbook_ <<holm>>.
+Modified from _The Complete Sourdough Cookbook_ <<holm>>.
 
 
 === Ingredients

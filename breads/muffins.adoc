@@ -1,6 +1,93 @@
+ifdef::env-github[]
+:tip-caption: :bulb:
+:note-caption: :information_source:
+:important-caption: :heavy_exclamation_mark:
+:caution-caption: :fire:
+:warning-caption: :warning:
+endif::[]
+
 = Muffins
 
 
 == Sourdough English Muffins
 
-== English Muffins
+Modified from _The Complete Sourdough Cookbook_ <<holm>>. This recipe works
+best with a stand mixer.
+
+image::https://farm1.staticflickr.com/396/31590886351_103ee99d9f_m_d.jpg[role=center]
+
+=== Ingredients
+
+.Ingredients
+|===
+| Quantity | Ingredient
+
+| 6 cups (720g)
+| Wheat flour (preferrably bread flour, All-purpose suffices)
+
+| 1 cup
+| Sourdough starter
+
+| 2 cups
+| Warm water
+
+| 1/2 cup
+| Dry milk
+
+| 1/2 cup
+| Vegetable oil or melted shortening or lard
+
+| 4 1/2 Tsp
+| Instant yeast
+
+| 1 Tbsp
+| Sugar
+
+| 3 1/2 Tsp
+| Salt
+
+| 1/2 cup
+| Farina or Semolina
+
+|===
+
+=== Directions
+
+[NOTE]
+====
+If mixing with a stand mixer, use a low and constant speed.
+====
+
+. In a large mixing bowl, dissolve yeast in warm water. Let activate for a
+  minute or two.
+. Mix in dry milk, sugar, salt, oil/shortening/lard, and two cups of flour.
+. Once mixed in, slowly mix in sourdough starter.
+. Replace mixing paddle with kneading hook and slowly add the remainder of the
+  flour while kneading at a low speed for roughly 10 minutes. The dough should
+  be sticky and smooth; expect it to be a bit more liquid than a bread dough.
+. Scrape the dough down off the sides of the bowl, cover and place in a warm
+  place for one to two hours (until doubled in size).
+. Gently deflate and let rest for 10 minutes.
+. Lightly sprinkle farina/semolina onto two or three baking sheets.
+. Pour out onto floured board, cut pieces off and hand-roll into 3 inch diameter
+  balls.
+. Place balls onto baking sheets, gently flattening each in its place.
+. Cover with parchment paper and let sit in a warm place for 30-60 minutes
+  until they have puffed up a bit.
+. Heat a griddle or frying pan to medium heat.
+. Sprinkle the tops of the muffins with more farina/semolina.
+. Gently place onto griddle and let cook for 7-15 minutes per side; internal
+  temperature should read 200&deg;F.
+. Let cool fully on a cooling rack before eating.
+
+
+[TIP]
+====
+Use a fork to separate the english muffins to preserve the nooks and crannies
+on the inside of the muffin.
+====
+
+== Bibliography
+
+[bibliography]
+- [[[holm]]] Don and Mertle Holm, The Complete Sourdough Cookbook, Caxton Press 1972
