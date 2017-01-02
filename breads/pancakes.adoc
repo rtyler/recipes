@@ -1,0 +1,110 @@
+= Pancakes
+
+== Whole Wheat Pancakes
+
+image::https://farm6.staticflickr.com/5834/30301481570_421d2f00e9_m_d.jpg[role=center]
+
+
+Heavily modified from a Martha Stewart recipe. Depending on the density of the
+whole wheat flour used, it may water to be added (no more than ~1/4 cup) to
+thin the batter out appropriately for pancakes.
+
+=== Ingredients
+
+.Dry Ingredients
+|===
+| Quantity | Ingredient
+
+| 1/2 cup (60g)
+| Wheat flour (All-purpose)
+
+| 1/2 cup (55g)
+| Whole-wheat flour
+
+| 2 Tbsp
+| Sugar
+
+| 2 Tsp
+| Baking powder
+
+| 1/2 Tsp
+| Salt
+
+|===
+
+.Wet Ingredients
+|===
+| Quantity | Ingredient
+
+| 3/4 cup
+| Evaporated milk
+
+| 1/2 cup
+| Warm water
+
+| 1
+| Egg (lightly beaten)
+
+| 3 Tbsp
+| Vegetable oil
+
+|===
+
+=== Directions
+
+. Combine all the dry ingredients together in a medium-sized mixing bowl.
+. Combine all the wet ingredients in a separate bowl.
+. Pour the wet ingredients over the dry, whisking them together vigorouly.
+. Pour onto medium-high heated griddle or pan.
+
+== Sourdough Pancakes
+
+Modified from _The Complete Sourdough Cookbook_ <<holm>>.
+
+=== Ingredients
+
+.Ingredients
+|===
+| Quantity | Ingredient
+
+| 1 cup
+| Sourdough starter
+
+| 1 cup (120g)
+| Wheat flour (All-purpose)
+
+| 1/2 cup
+| EVaporated milk
+
+| 1/2 cup
+| Warm water
+
+| 1
+| Egg (lightly beaten)
+
+| 2 Tbsp
+| Vegetable oil
+
+| 2 Tbsp
+| Sugar
+
+| 1 Tsp
+| Salt
+
+| 1 Tsp
+| Baking powder
+
+|===
+
+=== Directions
+
+. Mix everything together in a medium-sized mixing bowl.
+. Whisk vigorously.
+. Let mixture sit for a few minutes until it bubbles a bit.
+. Pour onto a medium-high heated griddle or pan.
+
+== Bibliography
+
+[bibliography]
+- [[[holm]]] Don and Mertle Holm, The Complete Sourdough Cookbook, Caxton Press 1972
+
